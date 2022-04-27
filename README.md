@@ -8,5 +8,4 @@ The Murder Accountability Project is the most complete database of homicides in 
 
 I have done some data cleaning and preliminary analysis which can be seen in the Jupyter notebook, and I have then done some more EDA and visualizations to identify any trends in Tableau which can be seen here: 
 
-
 https://public.tableau.com/app/profile/martha.cleary/viz/HomicidesInTheUSA1980-2014/Story2?publish=yes
